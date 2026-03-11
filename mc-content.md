@@ -1,0 +1,8 @@
+# MARVEL CHAMPIONS CUSTOM CONTENT #
+## by Smooth ##
+
+### SPIRIT RIDER (KUSHALA) - RELEASED
+Version: v1.0
+
+### GHOST RIDER (PARKER ROBBINS) - BETA
+Version: v0.1
