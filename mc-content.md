@@ -2,7 +2,10 @@
 ## by Smooth ##
 
 ### SPIRIT RIDER (KUSHALA) - RELEASED
-Version: v1.0
+Version: v1.1
+
+### THE MASK - RELEASED
+Version: v1.1
 
 ### GHOST RIDER (PARKER ROBBINS) - BETA
 Version: v0.1
