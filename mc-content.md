@@ -2,7 +2,7 @@
 ## by Smooth ##
 
 ### SPIRIT RIDER (KUSHALA) - RELEASED
-Version: v1.1
+Version: v1.2
 
 ### THE MASK - RELEASED
 Version: v1.1
